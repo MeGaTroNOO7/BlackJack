@@ -1,4 +1,3 @@
-![Blackjack](https://github.com/MeGaTroNOO7/BlackJack/assets/98184459/7f76e3a3-894d-4baa-a57c-46fa22ee005e)# Blackjack Game
 
 ## Description
 This is a simple implementation of the classic Blackjack card game in Java, utilizing Swing for the graphical user interface. The game allows a single player to play against the dealer.
