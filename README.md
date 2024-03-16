@@ -25,4 +25,7 @@ This is a simple implementation of the classic Blackjack card game in Java, util
 
 ## Screenshot
 
-![Blackjack](https://github.com/MeGaTroNOO7/BlackJack/assets/98184459/c77b0b67-5d63-4afe-bf69-5e3d68462931)
+
+![image](https://github.com/MeGaTroNOO7/BlackJack/assets/98184459/96112d67-371e-4db5-8a9c-3500ca9b0406)
+
+
